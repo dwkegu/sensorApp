@@ -1,7 +1,9 @@
-# sensorApp
+﻿# sensorApp
 
 #### 项目介绍
-智能家居传感器APP开发
+
+智能家居SensorApp
+
 
 #### 软件架构
 软件架构说明
