@@ -1,0 +1,13 @@
+header {
+    height: 44px;
+    width: 100%;
+    position: relative;
+    background-color: #37b579;
+    color: #fff;
+    line-height: 44px;
+    font-size: 20px;
+    box-shadow: 2px 0px 3px #888888;
+}
+body {
+  background-color: #ddd;
+}
